@@ -33,5 +33,5 @@ Systems and Computer Engineering student with production experience across the f
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/juan.castano3@utp.edu.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.castano3@utp.edu.co)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmanuel1904)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juanmanuel1904](https://www.linkedin.com/in/juan-manuel-casta%C3%B1o-s%C3%A1nchez-668816306/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eight-zeta-fobvkycmya.vercel.app/)
