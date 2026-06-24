@@ -4,12 +4,20 @@ Systems and Computer Engineering student with production experience across the f
 
 ---
 
+## 📫 Contact
+
+<a href="mailto:juan.castano3@utp.edu.co"><img src="https://img.shields.io/badge/juan.castano3@utp.edu.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
+<a href="https://www.linkedin.com/in/juanmanuel1904"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
+<a href="https://portfolio-eight-zeta-fobvkycmya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" height="35"/></a>
+
+---
+
 ## 🚀 Projects
 
 | Project | Stack | Links |
 |---|---|---|
-| **CryptoDash** — Real-time cryptocurrency dashboard with WebSocket data streaming, interactive charts, and watchlist management | React · Zustand · Recharts · TailwindCSS · FastAPI | [Live](https://cryptodash-frontend.vercel.app/) |
-| **Visual API Builder** — Low-code platform to design REST APIs on a drag-and-drop canvas; generates a complete NestJS project, Prisma schema and OpenAPI spec on demand | React · TypeScript · React Flow · NestJS · Prisma · PostgreSQL · Docker | [Live](https://api-builder-frontend.vercel.app/) |
+| **CryptoDash** — Real-time cryptocurrency dashboard with WebSocket data streaming, interactive charts, and watchlist management | React · Zustand · Recharts · TailwindCSS · FastAPI | [Live Demo](https://cryptodash-frontend.vercel.app/) |
+| **Visual API Builder** — Low-code platform to design REST APIs on a drag-and-drop canvas; generates a complete NestJS project, Prisma schema and OpenAPI spec on demand | React · TypeScript · React Flow · NestJS · Prisma · PostgreSQL · Docker | [Repository](https://github.com/JuanManuel1904) · Demo coming soon |
 | **Portfolio** — Personal site with EN/ES toggle showcasing all projects | React · TailwindCSS | [Live](https://portfolio-eight-zeta-fobvkycmya.vercel.app/) |
 
 ---
@@ -27,11 +35,3 @@ Systems and Computer Engineering student with production experience across the f
 **Tools & DevOps**
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,figma,vercel&perrow=6)](https://skillicons.dev)
-
----
-
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/juan.castano3@utp.edu.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.castano3@utp.edu.co)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juanmanuel1904](https://www.linkedin.com/in/juan-manuel-casta%C3%B1o-s%C3%A1nchez-668816306/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eight-zeta-fobvkycmya.vercel.app/)
