@@ -18,11 +18,15 @@ Systems and Computer Engineering student with production experience across the f
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,vite&perrow=5)](https://skillicons.dev)
+
+**Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=nestjs,fastapi,postgres,prisma&perrow=4)](https://skillicons.dev)
+
+**Tools & DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,figma,vercel&perrow=6)](https://skillicons.dev)
 
 **Backend**
 
