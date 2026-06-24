@@ -6,9 +6,11 @@ Systems and Computer Engineering student with production experience across the f
 
 ## 📫 Contact
 
-<a href="mailto:juan.castano3@utp.edu.co"><img src="https://img.shields.io/badge/juan.castano3@utp.edu.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
-<a href="https://www.linkedin.com/in/juanmanuel1904"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
-<a href="https://portfolio-eight-zeta-fobvkycmya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" height="35"/></a>
+<p align="center">
+  <a href="mailto:juan.castano3@utp.edu.co"><img src="https://img.shields.io/badge/juan.castano3@utp.edu.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45"/></a>
+  <a href="https://www.linkedin.com/in/juanmanuel1904"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/></a>
+  <a href="https://portfolio-eight-zeta-fobvkycmya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" height="45"/></a>
+</p>
 
 ---
 
@@ -26,12 +28,18 @@ Systems and Computer Engineering student with production experience across the f
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,vite&perrow=5)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite&perrow=5" /></a>
+</p>
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,fastapi,postgres,prisma&perrow=4)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,fastapi,postgres,prisma&perrow=4" /></a>
+</p>
 
 **Tools & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,figma,vercel&perrow=6)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,vercel&perrow=6" /></a>
+</p>
