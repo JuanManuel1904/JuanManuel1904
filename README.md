@@ -8,8 +8,8 @@ Systems and Computer Engineering student with production experience across the f
 
 | Project | Stack | Links |
 |---|---|---|
-| **CryptoDash** — Real-time cryptocurrency dashboard with WebSocket data streaming, interactive charts, and watchlist management | React · Zustand · Recharts · TailwindCSS · FastAPI | [Live Demo](https://cryptodash-frontend.vercel.app/) |
-| **Visual API Builder** — Low-code platform to design REST APIs on a drag-and-drop canvas; generates a complete NestJS project, Prisma schema and OpenAPI spec on demand | React · TypeScript · React Flow · NestJS · Prisma · PostgreSQL · Docker | [Repository](https://github.com/JuanManuel1904) · Demo coming soon |
+| **CryptoDash** — Real-time cryptocurrency dashboard with WebSocket data streaming, interactive charts, and watchlist management | React · Zustand · Recharts · TailwindCSS · FastAPI | [Live](https://cryptodash-frontend.vercel.app/) |
+| **Visual API Builder** — Low-code platform to design REST APIs on a drag-and-drop canvas; generates a complete NestJS project, Prisma schema and OpenAPI spec on demand | React · TypeScript · React Flow · NestJS · Prisma · PostgreSQL · Docker | [Live](https://api-builder-frontend.vercel.app/) |
 | **Portfolio** — Personal site with EN/ES toggle showcasing all projects | React · TailwindCSS | [Live](https://portfolio-eight-zeta-fobvkycmya.vercel.app/) |
 
 ---
