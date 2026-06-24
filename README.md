@@ -8,7 +8,7 @@ Systems and Computer Engineering student with production experience across the f
 
 <p align="center">
   <a href="mailto:juan.castano3@utp.edu.co"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="www.linkedin.com/in/juan-castaño-sánchez/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/juan-castaño-sánchez/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://portfolio-eight-zeta-fobvkycmya.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
 
